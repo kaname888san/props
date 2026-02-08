@@ -61,9 +61,9 @@
   },
   "overrides":
   [
-    {"predicate":{"custom_model_data":1},"model":"phone:item/phone_sudou"},
-    {"predicate":{"custom_model_data":2},"model":"phone:item/phone_doctor"},
-    {"predicate":{"custom_model_data":3},"model":"phone:item/phone_sudou_off"},
-    {"predicate":{"custom_model_data":4},"model":"phone:item/phone_doctor_off"}
+    {"predicate":{"custom_model_data":1},"model":"props:item/phone_sudou"},
+    {"predicate":{"custom_model_data":2},"model":"props:item/phone_doctor"},
+    {"predicate":{"custom_model_data":3},"model":"props:item/phone_sudou_off"},
+    {"predicate":{"custom_model_data":4},"model":"props:item/phone_doctor_off"}
   ]
 }

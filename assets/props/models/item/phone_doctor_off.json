@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"textures":
   {
-		"0": "phone:item/frame",
-		"1": "phone:item/color_doctor",
-		"2": "phone:item/display_phone"
+		"0": "props:item/phone/frame",
+		"1": "props:item/phone/color_doctor",
+		"2": "props:item/phone/display_off"
 	},
 	"elements":
   [
